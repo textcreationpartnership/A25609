@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Popes letter written to the king of France wherein he insinuates that barbarous doctrine, that temporal dominion is founded upon religion : with a refutation also of the popes supremacy.</title>
+            <author>Anglicus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25609</idno>
+            <idno type="STC">Wing A3432</idno>
+            <idno type="STC">ESTC R227</idno>
+            <idno type="EEBO-CITATION">13413758</idno>
+            <idno type="OCLC">ocm 13413758</idno>
+            <idno type="VID">99449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99449)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 782:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Popes letter written to the king of France wherein he insinuates that barbarous doctrine, that temporal dominion is founded upon religion : with a refutation also of the popes supremacy.</title>
+                  <author>Anglicus.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Anglicus.</note>
+                  <note>Probable imprint from NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Innocent --  XI, --  Pope, 1611-1689.</term>
+               <term>Popes --  Temporal power --  Early works to 1800.</term>
+               <term>Popes --  Primacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99449:1" rendition="simple:additions"/>
+            <head>
+               <hi>An Anſwer to the Popes Letter</hi> Written to the King of <hi>France,</hi> wherein he inſinuates that Barbarous Doctrine, <hi>That Temporal Dominion is founded upon Religion:</hi> With a Refutation alſo of the Popes Supremacy.</head>
+            <opener>
+               <salute>May it pleaſe Your Holineſs,</salute>
+            </opener>
+            <p>WE of the Reformed Church do in all the Humility that becomes us, return our Anſwer to your Letter to the King of <hi>France,</hi> for it is that which requires our Anſwer, and not his.</p>
+            <p>Your Holineſs is pleaſed with all Expreſſions of Zeal to Liſt your high Spiritualities under the proſperous Banner of that King, with no leſs confidence of his future progreſs, than gratulation of his paſt proceedings. Now ſince we are liable to his Irreſiſtible Power, and muſt be ſure to fly before his Omnipotent Hoſtility, why ſhould Your Holineſs ſeek to prevent his victorious Hand, by the hazardous, infamous, and fallible Attempts of Private Murther, Fi<g ref="char:EOLhyphen"/>ring, &amp;c. And ſince you are pleaſed to hold the Profeſſion of the Art of Religi<g ref="char:EOLhyphen"/>on and War in a complication, how could theſe things happen to us under that Conjunction? For though the harſh Conſtitution of the Church may give them Authority, yet then methinks the Gentleneſs of Martial Diſcipline might a little mitigate the rigour of Religion, for they are evermore forbidden by the true Principles of War.</p>
+            <p>But how unreaſonably then doth Your Holineſs charge our Government with Cruelty? What is it onely becauſe our King will not ſuffer himſelf to be mur<g ref="char:EOLhyphen"/>der'd by his own Subjects? If they are any way ſo much yours, as you ſeem to own them by your Vindication, why did you not take them to you from amongſt the Hereticks? But if they will live here in wealth and proſperity, under the influence of His Majeſty's Protection; if then they will remove that Protection, they are naturally as well as legally left to deſtruction. Would Your Holineſs as you are a Temporal Prince take ſuch a Reflection ſo much as for common ſence?</p>
+            <p>But it ſeems, if we will not ſuffer ſlaughter and diſſolution by Treachery, the penalty is but to receive it by open War; and we will chuſe the later becauſe it is furtheſt off. And what need we fear that, ſeeing Men, Women, and Children are already in the condition of common Souldiers, ſubject to be put to death for not being killed?</p>
+            <p>Your Holineſs cannot think we will believe, that he was offenſive onely to Heretics by the name of Heretics, for then he had not taken away thoſe Towns from his Brother of <hi>Spain,</hi> which he would no doubt have done if they had been his Father's, as you call your ſelf. But now in requital of Your Holineſs's Re<g ref="char:EOLhyphen"/>ception into this Military Renown, you are pleaſed to adopt that King into your Theological Capacity, by imputing unto him a Celeſtial Knowledge of that which is not to be found in Divinity nor Reaſon, namely, That Kingdoms are founded upon the truth of the Orthodox Faith.</p>
+            <p>Now the Poſition is a <hi>Paralogiſm,</hi> and not altogether falſe <hi>in terminis;</hi> for though Kingdoms be founded otherwiſe, yet in ſome ſence Chriſtian Kingdoms may be ſaid to be ſo founded, and you do not ſay, Kingdoms in general are not otherwiſe founded. But if that had been the meaning, you had ſaid nothing at all; therefore I take your intent to be, That the Truth of the Orthodox Faith hath Right of Dominion, or right and juſt Dominions are founded upon the Or<g ref="char:EOLhyphen"/>thodox Faith.</p>
+            <pb n="2" facs="tcp:99449:2"/>
+            <p>This therefore, beſides that there is not one word of Scripture for it, our Saviour <hi>totidem verbis</hi> diſclaims, <hi>My kingdom is not of this world,</hi> therefore my Servants do not fight. Beſides that he hath done the ſame by notorious infer<g ref="char:EOLhyphen"/>ence; for ſince Peace of all things was his Legacy, (my Peace, not my Love, my Juſtice, my Mercy, my Patience, &amp;c. but <hi>My peace I give unto you;</hi>) either this was to the Apoſtles onely, or to the Church in general. If the firſt, then Your Holineſs is punctually forbidden to take or joyn your ſelf to the Sword in any manner, at leaſt Offenſive: If the later, (which I rather think to be intend<g ref="char:EOLhyphen"/>ed) then a King being a Member of that Church, though he muſt fight to defend his own, and may impugn a profeſt Enemy, he muſt not violently invade the Dominions of others that live quietly by him; for ſo you will abſolve a Chriſti<g ref="char:EOLhyphen"/>an King from all Chriſtian Duty, not onely of Peace but Juſtice, which is moſt properly exerciſed in reſpect of other Princes, for that the unequal Converſation of a King with his own People is not ſo capable of the Evidences of Religious Vertues.</p>
+            <p>But leſt the <hi>Index Expurgatorius</hi> ſhould have diſcharged you of this Text, we will endeavour to prove it by Reaſon.</p>
+            <p>If Kingdoms are of right onely founded on the Truth of the Orthodox Faith, then what ſhall we ſay of all thoſe Heathen Dominions, that during the Hiſtory of the Bible, and ever ſince, have enjoyed long and flouriſhing Durations, under the preſervation of excellent Politick Laws, and Principles of Humanity and Society, to which Dominions not onely their own Subjects, but the Orthodox People of God (if happening under them) were required to yield their Obedi<g ref="char:EOLhyphen"/>ence, <hi>(ſalvâ religione.)</hi>
+            </p>
+            <p>Shall we part the World, the Fleſh, and the Devil? Or ſhall we deny to give each its due? Shall they who expect an everlaſting Kingdom, (and that for the ſake of doing Juſtice) not onely be guilty of, but profeſs ſuch Emphatical Ini<g ref="char:EOLhyphen"/>quity, as to ſnatch away from the poor Reprobate World, the contemptible Boon of a Momentany Dominion? It was a far milder injury than this in <hi>Na<g ref="char:EOLhyphen"/>than</hi>'s Parable, that awakened the indignation of Juſtice in King <hi>David</hi> to the ſevereſt Sentence.</p>
+            <p>Man by the name of Man had Dominion given him over the Earth, and the Furniture thereof; and after he fell, that is, after he ceaſed to be Orthodox, retained yet ſtill by the name of Man the Right of Dominion. Now this natu<g ref="char:EOLhyphen"/>ral Dominion muſt needs import that Politick Dominion about which we con<g ref="char:EOLhyphen"/>tend, becauſe without that it is impoſſible to enjoy this, as every mans Experi<g ref="char:EOLhyphen"/>ence and Obſervation muſt needs ſuggeſt.</p>
+            <p>But if Dominion be its right, then till that is obtained Fighting for it is its right. Now, is this right of Fighting underſtood as an evil or a good to thoſe of the Orthodox Faith? I ſuppoſe it is not intended by Your Holineſs as an evil; for though the Church muſt bear, ſhe is not to prepare her Croſs. If then it be underſtood as a good, then ſhew me the man (except the ambitious Prince and the mercenary Commander) that doth not eſteem it the moſt unhappy life that is ſpent in War. War! it is one of God's great Judgments, equivalent to Plague and Famine; that which all mankind by natural inſtinct do ſhun and dread. And is this the perpetual lot of the Elect by the name of a Right? For this War, by the nature of the Poſition, muſt never have an end till the whole World be conquered, for the ſame reaſon that it muſt begin. But ſuppoſing the whole World to be conquered, then ſtill as to the generality of men, after that dear-bought Univerſality, who will be the better? Man will have but the whole World, and ſo he hath now.</p>
+            <p>But again if this be ſo, then ſince all the Perſuaſions do hold themſelves Or<g ref="char:EOLhyphen"/>thodox; (for no man will profeſs a Religion, and ſay it is falſe.) It is very likely
+<pb n="3" facs="tcp:99449:2"/>this Principle will be one Ingredient of all their Religions, and ſo all parts of the Univerſe by a certain <hi>Idioſyncriſis</hi> of fighting for their own, will be moving War together; and ſo we ſhall affect the World with a univerſal principle of Contention, Slaughter, and Deſtruction, and all the miſerable Concomitants of War; and that not as an accident of its depravation, not as the iſſue of its corruption, but as matter and part of the original rectitude of its conſtitution, becauſe all this is to be <hi>quatenus</hi> Truth and Orthodox Faith. And as it is in the World at large, ſo will it be with the Factions in every particular Kingdom: Every one as he thinketh himſelf Orthodox, will alſo think himſelf entituled to Dominion and Property over all the reſt. Now for that I know Your Holi<g ref="char:EOLhyphen"/>neſs maketh no queſtion but the Truth of the Orthodox Faith is in the Church of <hi>Rome,</hi> and conſequently the Right of Dominion; when you ſhall have con<g ref="char:EOLhyphen"/>quered all the World, I pray you which of all the 300 Factions among you ſhall have it, ſince but one can be the Orthodox? and Your Holineſs can tell if you are infallible.</p>
+            <p>As for the putting Saints out of the Temple, if your Authority be not good, (as I ſhall ſhew preſently) there are no ſuch Saints; then as to the condemning the Forefathers, if you mean thoſe we commonly call the Fathers, we deny it: We approve every word of every one, but all that ſay as you ſay we deny to be Fathers. But the queſtion of the Fathers is not rightly taken by ſome, for they ſpake nothing of any point as if it were in controverſie, for it was not then. If you mean the Popes, then to their and your Authority we ſay thus:
+<list>
+                  <item>1. The whole Difference betwixt you and us depends upon the Authority of the Pope, (at leaſt that is the grand Controverſie.)</item>
+                  <item>2. That Authority depends upon his Succeſſion to S. <hi>Peter.</hi>
+                  </item>
+                  <item>3. The Virtue of that Succeſſion depends upon three things in conjunction, <hi>viz.</hi> S. <hi>Peter</hi>'s being Univerſal Biſhop, his ſitting at <hi>Rome</hi> in that capacity, and his Authority for both; (for if he ſate at <hi>Rome,</hi> and were not Univerſal, you are not Univerſal; if he were Univerſal, and ſate not at <hi>Rome,</hi> you are not his Succeſſor; if he had no Authority, neither have you.)</item>
+                  <item>4. This Authority of the Pope is Matter of Faith, or equivalent to it; (for you ſay, To be out of the Church is damnable, and to deny the Popes Authority is to be out of the Church.)</item>
+                  <item>5. This great Matter of Faith is built upon theſe three things, two of which are Matter of Fact, and the other Interpretation of Scrip<g ref="char:EOLhyphen"/>ture.</item>
+                  <item>6. That upon which Matter of Faith depends, ought to be as certain as the Faith ought to be ſtedfaſt: then if thoſe three things are ſo certain, ſhew me the Evidence, which I require to be as plain as that whereby we know Chriſt was the Meſſias; becauſe it is to ſupport a point of Faith, the want of which you make as dangerous as the want of that.</item>
+               </list>
+And now in this caſe Your Holineſs is prevented of the uſe of your <hi>Archimedes</hi>'s Engine, (having no where to ſtand while you uſe it) <hi>viz.</hi> The Pope ſaith ſo, therefore it is true. For the queſtion is, not whether the Pope ſay ſo, but whether it be true becauſe the Pope ſaith ſo. So that this muſt be previouſly proved to ground his Credit upon. Do not miſtake the <hi>Elenchus,</hi> the Diſpute is not of S. <hi>Peter</hi>'s being Univerſal Biſhop, or ſitting at <hi>Rome,</hi> nor of his Authority ſo to do; but of ſuch a Certainty of theſe things as Faith requires. We are not ſure that S. <hi>Peter</hi> was not ſo, and did not ſo, and had not ſo; but we are ſure that we cannot be ſure he was ſo, and did ſo, and had ſo: and ſo long no man can be required to aſcribe this Authority to the Pope. Take by the way but <hi>Bellarmine</hi>'s firſt Argument to prove that he was at <hi>Rome</hi> Biſhop or no Biſhop: <hi>S. Peter</hi> (ſaith he) <hi>in his Epiſtle writeth thus, The Church at Babylon ſalute you;</hi> which <hi>Babylon</hi> is figuratively <hi>Rome:</hi> A proper <hi>baſis</hi> to build Faith upon; I am confident that he himſelf did not take either this or any other he uſeth to be ſo.</p>
+            <pb n="4" facs="tcp:99449:3"/>
+            <p>Then as to the Interpretation, it is poſitively impoſſible that God could deal ſo unreaſonably and unmercifully, as to leave that Uncertain, upon the Cer<g ref="char:EOLhyphen"/>tainty whereof the Temporal and Eternal Peace of his Church depends, if all the true Religion reſt upon this queſtion, namely, Whether the Pope be what he pretends to be, or not? Is it poſſible that the Scripture, which came on pur<g ref="char:EOLhyphen"/>poſe to teach us Religion, ſhould let us underſtand nothing of it, but what we can pick out, as if we were reading a Riddle, or interpreting a Dream or an Ora<g ref="char:EOLhyphen"/>cle; nay, and muſt pick out that which by no rule or meaſure of Interpretation can be found out? Is God ſuch an <hi>Egyptian</hi> Task maſter?</p>
+            <p>
+               <hi>Thou art Peter, and upon this rock will I build my Church, and the gates of Hell ſhall not prevail againſt her. Whatſoever thou bindeſt in Earth ſhall be bound in Heaven. Feed my ſheep.</hi> Now as we tender our being in the Church, and conſequently our Salvation, we muſt find in theſe words all theſe Inſtitutions, (and that as certain and conſpicuous as <hi>Thou ſhalt do no murder.</hi>)
+<list>
+                  <item>1. That S. <hi>Peter</hi> was there<g ref="char:EOLhyphen"/>by made the greateſt of the Apoſtles.</item>
+                  <item>2. That being ſo, he was Biſhop of the World.</item>
+                  <item>3. That being ſo, where ever he ſate, that place ſhould retain that Ho<g ref="char:EOLhyphen"/>lineſs, that who ſo ever ſucceeded in that Seat ſhould be Univerſal Biſhop.</item>
+                  <item>4. That that Univerſal Biſhop hath an Infallible Faculty and Authority in inter<g ref="char:EOLhyphen"/>preting Scripture, and dictating the Doctrines of the Church.</item>
+                  <item>5. That he hath power over Kings: and ſeveral other things.</item>
+               </list>
+Now no man can ſay, that theſe things do naturally flow from theſe; and then though they could (which they cannot) by dint of Syllogiſm, involved Reaſonings, and Concatenations of Infe<g ref="char:EOLhyphen"/>rences be deduc'd; yet then they would not ſeem to be the things that every one is required to believe, becauſe every one then is not capable of them.</p>
+            <p>Perhaps you will object, Every one is bound to believe the matters in the <hi>Athanaſian</hi> Creed, yet thoſe are not found in Scripture but by Inferences, which every one is not able to make, neither doth every one underſtand it.</p>
+            <p>The Caſe is not the ſame; for we believe there is a God before we come to the <hi>Athanaſian</hi> Creed, (and do alſo naturally ſuppoſe great things in that God) and then from that learn the manner and nature of his Being, which then we have no reaſon to disbelieve, unleſs we know any thing more likely to be true, or any thing that were likely to make that falſe; and no man is bound to believe any more of this than he underſtands. But that there is a God in general every one is bound to believe; but now in this caſe we do not firſt believe a Pope, and then come to this dark Analogy, to learn the Nature of his Office. But we come to this, to learn that there is ſuch a thing as a Pope, (it being all the way that he is to be proved;) which therefore ſince you make ſo neceſſary, ought to be depending upon a common Teſtimony. To conclude then, he that cannot find Evidence for the Matters of Fact aforeſaid, and a cer<g ref="char:EOLhyphen"/>tain Rule for this Interpretation, muſt not be a Papiſt; and he that can, deſerves to be a Pope.</p>
+            <closer>
+               <signed>Your Holineſs's As far as is Lawful, ANGLIC<g ref="char:V">Ʋ</g>S.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
